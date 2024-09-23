@@ -10,7 +10,7 @@
         <mxCell id="fJKymjy_2eBl3symt3s9-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="180" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="fJKymjy_2eBl3symt3s9-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;多任务的共享特征&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJKymjy_2eBl3symt3s9-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;多任务共享特征的提取网络&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fJKymjy_2eBl3symt3s9-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;预测头&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -66,7 +66,7 @@
         <mxCell id="fJKymjy_2eBl3symt3s9-15" value="&lt;b&gt;预测任务 Y&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fJKymjy_2eBl3symt3s9-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;混淆特征&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fJKymjy_2eBl3symt3s9-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;特征混淆器&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fJKymjy_2eBl3symt3s9-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="fJKymjy_2eBl3symt3s9-3" target="fJKymjy_2eBl3symt3s9-16" edge="1">
